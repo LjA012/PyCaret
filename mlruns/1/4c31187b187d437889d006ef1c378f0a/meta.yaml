@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LoganAnderson/Documents/Jnotebooks/mlruns/1/4c31187b187d437889d006ef1c378f0a/artifacts
+end_time: 1623711941764
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 4c31187b187d437889d006ef1c378f0a
+run_uuid: 4c31187b187d437889d006ef1c378f0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1623711941598
+status: 3
+tags: []
+user_id: LoganAnderson
